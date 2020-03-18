@@ -6,7 +6,7 @@ baseURL: 'https://cstate.mnts.lt'
 params:
   disableDarkMode: false
   shortDateFormat: '15:04 — Jan 2'
-  down: '#e60000'
+  down: '#D11B1A'
   systems:
     - name: Gateway
       category: North Coast
@@ -29,10 +29,10 @@ params:
   alwaysKeepBrandColor: true
   disableComplexCalculations: false
   useLogo: true
-  disrupted: '#cc4400'
+  disrupted: '#f7ca18'
   notice: '#24478f'
-  incidentHistoryFormat: yearly
-  ok: '#008000'
+  incidentHistoryFormat: none
+  ok: '#2ecc71'
   categories:
     - name: North Coast
       description: The main servers are located here.
@@ -43,7 +43,7 @@ params:
   description: >-
     We continuously monitor the status of our services and if there are any
     interruptions, a note will be posted here.
-  useLargeHeaderDesign: false
+  useLargeHeaderDesign: true
 theme: cstate
 preserveTaxonomyNames: true
 taxonomies:
