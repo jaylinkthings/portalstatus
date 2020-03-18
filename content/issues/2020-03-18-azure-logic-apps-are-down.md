@@ -2,7 +2,7 @@
 section: issue
 title: Azure Logic Apps are down
 date: 2020-03-18T15:23:14.451Z
-resolved: false
+resolved: true
 informational: false
 resolvedWhen: ''
 affected:
