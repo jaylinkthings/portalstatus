@@ -2,7 +2,7 @@ title: LinkThings Status
 buildFuture: true
 defaultContentLanguage: en
 languageCode: en
-baseURL: 'https://cstate.mnts.lt'
+baseURL: 'https://linkthingsstatus.netlify.com/'
 params:
   disableDarkMode: false
   shortDateFormat: '15:04 — Jan 2'
