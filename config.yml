@@ -21,9 +21,9 @@ params:
         is reliant on our CDN.
       category: Uncategorized
   dateFormat: 'January 2, 2006 at 3:04 PM'
-  brand: '#0a0c0f'
+  brand: '#10325a'
   headerTextColor: white
-  logo: /img/logo-linkthings.png
+  logo: /img/linkthings_logo_with_text.svg
   incidentPostsPerPage: 10
   googleAnalytics: UA-00000000-1
   alwaysKeepBrandColor: true
