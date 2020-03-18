@@ -10,6 +10,11 @@ params:
   systems:
     - name: Power BI
       category: Power BI Portal
+    - name: Azure
+      category: Power BI Portal
+      description: >-
+        All different Azure components from the Data Factory to the Logic Apps
+        and SQL Databases
   dateFormat: 'January 2, 2006 at 3:04 PM'
   brand: '#10325a'
   headerTextColor: white
