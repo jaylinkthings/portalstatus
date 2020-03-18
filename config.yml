@@ -8,18 +8,8 @@ params:
   shortDateFormat: '15:04 — Jan 2'
   down: '#D11B1A'
   systems:
-    - name: Gateway
-      category: North Coast
-    - name: Backup Gateway
-      category: East Coast
-    - name: API
-      description: The guts of the application.
-      category: Uncategorized
-    - name: Media Proxy
-      description: >-
-        This is the service responsible for serving images, audio, and video. It
-        is reliant on our CDN.
-      category: Uncategorized
+    - name: Power BI
+      category: Power BI Portal
   dateFormat: 'January 2, 2006 at 3:04 PM'
   brand: '#10325a'
   headerTextColor: white
@@ -34,12 +24,9 @@ params:
   incidentHistoryFormat: none
   ok: '#2ecc71'
   categories:
-    - name: North Coast
-      description: The main servers are located here.
+    - name: Power BI Portal
       closed: true
-    - name: East Coast
-    - name: Uncategorized
-      untitled: true
+      untited: false
   description: >-
     We continuously monitor the status of our services and if there are any
     interruptions, a note will be posted here.
